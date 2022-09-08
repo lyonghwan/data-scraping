@@ -9,7 +9,7 @@
     "crawler": "^1.2.1",
     "exceljs": "^3.4.0",
     "json2xls": "^0.1.2",
-    "jszip": "^3.2.2",
+    "jszip": "^3.7.0",
     "path": "^0.12.7",
     "tabletojson": "^1.0.4",
     "website-scraper": "^4.2.0"
